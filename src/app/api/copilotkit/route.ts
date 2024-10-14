@@ -3,7 +3,6 @@ import {
     GroqAdapter,
     copilotRuntimeNextJSAppRouterEndpoint,
 } from "@copilotkit/runtime";
-  import OpenAI from 'openai';
   import { NextRequest } from 'next/server';
   import Groq from "groq-sdk";
 

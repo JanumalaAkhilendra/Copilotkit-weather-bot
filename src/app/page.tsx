@@ -8,7 +8,7 @@ import WeatherCard from './components/WeatherCard';
 import fetchWeatherData from '../../libs/fetchWeatherData';
 import { WeatherData } from './types/WeatherData';
 import { CopilotPopup } from "@copilotkit/react-ui";
-import { useCopilotReadable, useCopilotAction } from "@copilotkit/react-core"; 
+import { useCopilotAction } from "@copilotkit/react-core"; 
 
 const HomePage = () => {
   const [location, setLocation] = useState('');

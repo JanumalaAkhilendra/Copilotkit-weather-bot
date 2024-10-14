@@ -1,10 +1,7 @@
 import {
     Card,
     CardContent,
-    CardDescription,
     CardFooter,
-    CardHeader,
-    CardTitle,
   } from "@/components/ui/card"
 import { WeatherData } from '../types/WeatherData';
 import { Input } from "@/components/ui/input"
