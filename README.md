@@ -22,7 +22,10 @@ Snippy is a code snippet manager that allows you to store and manage your code s
 A youtube video demo of Copilotkit-weather-bot is available [here](https://youtu.be/F2wiIcNrwOg)
 
 Screenshots:
--
+-Copilotchat
+![Screenshot (384).png](https://github.com/JanumalaAkhilendra/Akfirstproject/blob/main/Screenshot%20(384).png)
+-Copilotchat
+![Screenshot (383).png](https://github.com/JanumalaAkhilendra/Akfirstproject/blob/main/Screenshot%20(383).png)
 
 ## Technologies
 - [Next.js](https://nextjs.org)
